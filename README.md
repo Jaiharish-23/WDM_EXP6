@@ -225,3 +225,5 @@ print(f"\nThe highest rank cosine score is: {highest_doc[5]} (Document ID: {high
 
 
 ### Result:
+
+Thus, the implementation of Information Retrieval Using Vector Space Model in Python is executed successfully.
